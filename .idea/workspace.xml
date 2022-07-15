@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b20a724e-5d42-46b5-85cc-31032619695d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HandTrackingProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FingerCounerProject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FingerImages/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FingerImages/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FingerImages/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FingerImages/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FingerImages/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FingerImages/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HandTrackingGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HandTrackingMin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HandTrackingModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VolumeHandControl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/Python.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/abstract.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/bltinmodule.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/boolobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/bytearrayobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/bytesobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cellobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/ceval.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/classobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/code.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/codecs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/compile.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/complexobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/context.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/abstract.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/bytearrayobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/bytesobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/ceval.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/code.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/compile.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/dictobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/fileobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/fileutils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/frameobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/import.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/initconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/interpreteridobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/listobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/methodobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/object.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/objimpl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/odictobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/picklebufobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/pyctype.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/pydebug.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/pyerrors.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/pyfpe.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/pylifecycle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/pymem.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/pystate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/pythonrun.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/pytime.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/sysmodule.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/traceback.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/tupleobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/cpython/unicodeobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/datetime.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/descrobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/dictobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/dynamic_annotations.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/enumobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/errcode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/eval.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/exports.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/fileobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/fileutils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/floatobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/frameobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/funcobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/genericaliasobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/genobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/import.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_abstract.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_accu.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_asdl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_ast.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_ast_state.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_atomic.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_atomic_funcs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_bitutils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_blocks_output_buffer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_bytes_methods.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_call.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_ceval.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_code.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_compile.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_condvar.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_context.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_dtoa.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_fileutils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_format.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_gc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_getopt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_gil.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_hamt.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_hashtable.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_import.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_initconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_interp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_list.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_long.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_moduleobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_object.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_parser.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_pathconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_pyarena.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_pyerrors.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_pyhash.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_pylifecycle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_pymem.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_pystate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_runtime.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_structseq.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_symtable.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_sysmodule.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_traceback.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_tuple.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_ucnhash.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_unionobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/internal/pycore_warnings.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/interpreteridobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/intrcheck.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/iterobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/listobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/longintrepr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/longobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/marshal.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/memoryobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/methodobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/modsupport.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/moduleobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/namespaceobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/object.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/objimpl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/opcode.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/osdefs.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/osmodule.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/patchlevel.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/py_curses.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pycapsule.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pyconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pydtrace.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pyerrors.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pyexpat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pyframe.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pyhash.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pylifecycle.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pymacconfig.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pymacro.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pymath.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pymem.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pyport.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pystate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pystrcmp.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pystrhex.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pystrtod.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pythonrun.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/pythread.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/rangeobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/setobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/sliceobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/structmember.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/structseq.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/sysmodule.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/token.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/traceback.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/tracemalloc.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/tupleobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/typeslots.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/unicodeobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/warnings.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Include/weakrefobject.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/__future__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/_collections_abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/_weakrefset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/base64.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/bisect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/codecs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/collections/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/collections/abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/copyreg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/aliases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/ascii.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/base64_codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/big5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/big5hkscs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/bz2_codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/charmap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp037.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1125.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1140.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1250.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1251.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1252.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1253.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1254.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1255.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1256.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1257.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1258.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp273.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp424.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp437.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp500.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp720.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp737.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp775.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp850.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp852.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp855.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp856.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp857.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp858.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp860.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp861.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp862.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp863.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp864.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp865.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp866.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp869.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp874.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp875.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp932.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp949.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp950.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jis_2004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jisx0213.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_kr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/gb18030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/gb2312.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/gbk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/hex_codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/hp_roman8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/hz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/idna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_kr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/johab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_r.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_u.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/kz1048.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/latin_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_arabic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_croatian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_cyrillic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_farsi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_greek.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_iceland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_latin2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_roman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_romanian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_turkish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/mbcs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/oem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/palmos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/ptcp154.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/punycode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/quopri_codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/raw_unicode_escape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/rot_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis_2004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jisx0213.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/tis_620.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/undefined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/unicode_escape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_be.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_le.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_be.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_le.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_8_sig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/uu_codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/encodings/zlib_codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/enum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/fnmatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/functools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/genericpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/hashlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/heapq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/hmac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/imp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/_abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/_adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/_bootstrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/_bootstrap_external.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/_common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/machinery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/metadata/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/metadata/_adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/metadata/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/metadata/_functools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/metadata/_itertools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/metadata/_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/metadata/_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/readers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/importlib/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/io.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/linecache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/locale.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/no-global-site-packages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/ntpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/orig-prefix.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/os.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/posixpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/reprlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/rlcompleter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/sre_compile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/sre_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/sre_parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/stat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/struct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/tarfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/tempfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/tokenize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/warnings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/weakref.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python310.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="297U6lP5B25ExNiB9l9bMSbyUDO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.VolumeHandControl">
+    <configuration name="FingerCounerProject" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HandTrackingProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FingerCounerProject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HandTrackingGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HandTrackingProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HandTrackingGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HandTrackingMin" type="PythonConfigurationType" factoryName="Python">
+      <module name="HandTrackingProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HandTrackingMin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HandTrackingModule" type="PythonConfigurationType" factoryName="Python">
+      <module name="HandTrackingProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HandTrackingModule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HnadTrackingGame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HandTrackingProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="H:\Pyhton Projects\HandTrackingProject\HandTrackingGame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VolumeHandControl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HandTrackingProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Mohamed Ashraf\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VolumeHandControl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in H:/Pyhton Projects/HandTrackingProject/test_HandTrackingModule.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="HandTrackingProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_HandTrackingModule.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.VolumeHandControl" />
+        <item itemvalue="Python.HandTrackingGame" />
+        <item itemvalue="Python.FingerCounerProject" />
+        <item itemvalue="Python.HnadTrackingGame" />
+        <item itemvalue="Python tests.Unittests in H:/Pyhton Projects/HandTrackingProject/test_HandTrackingModule.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b20a724e-5d42-46b5-85cc-31032619695d" name="Default Changelist" comment="" />
+      <created>1652463444197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652463444197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1159" y="166" key="#HandTrackingMin" timestamp="1652479241327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1159" y="166" key="#HandTrackingMin/0.0.1920.1080@0.0.1920.1080" timestamp="1652479241327" />
+    <state x="1159" y="169" key="#HandTrackingModule" timestamp="1652722309588">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1159" y="169" key="#HandTrackingModule/0.0.1920.1080@0.0.1920.1080" timestamp="1652722309588" />
+    <state x="552" y="198" key="#Inspections" timestamp="1652482134228">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1652482134228" />
+    <state x="552" y="198" width="816" height="732" key="#Intentions" timestamp="1652482154555">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="198" width="816" height="732" key="#Intentions/0.0.1920.1080@0.0.1920.1080" timestamp="1652482154555" />
+    <state x="1032" y="198" key="#Notifications" timestamp="1652478751677">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1032" y="198" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1652478751677" />
+    <state x="-1241" y="166" key="#VolumeHandControl" timestamp="1653514420763">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1241" y="166" key="#VolumeHandControl/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1653514420763" />
+    <state x="828" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1652480406489">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="828" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652480406489" />
+    <state x="1174" y="304" key="EnvironmentVariablesDialog" timestamp="1652472235311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1174" y="304" key="EnvironmentVariablesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1652472235311" />
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom" timestamp="1653843833184">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1653521156926" />
+    <state width="1899" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1653843833184" />
+    <state width="1899" height="289" key="GridCell.Tab.0.center" timestamp="1653843833184">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="287" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1653521156926" />
+    <state width="1899" height="289" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1653843833184" />
+    <state width="1899" height="289" key="GridCell.Tab.0.left" timestamp="1653843833184">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="287" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1653521156926" />
+    <state width="1899" height="289" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1653843833184" />
+    <state width="1899" height="289" key="GridCell.Tab.0.right" timestamp="1653843833184">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="287" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1653521156926" />
+    <state width="1899" height="289" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1653843833184" />
+    <state x="-998" y="185" key="SettingsEditor" timestamp="1653515064301">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-998" y="185" key="SettingsEditor/0.0.1920.1080/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1653515064301" />
+    <state x="922" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1652544008535" />
+    <state x="1136" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1653843553488">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1136" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1653843553488" />
+  </component>
+</project>
